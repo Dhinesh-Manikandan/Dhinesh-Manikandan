@@ -5,7 +5,7 @@
 
 <!-- Contact & Links -->
 <p align="center">
-  <a href="mailto:dhineshsidhugmail.com"><img src="https://img.shields.io/badge/Email-Dhinesh_Babu-00BFFF?style=flat-square&logo=gmail" /></a>
+  <a href="mailto:dhineshbabu9214@gmail.com"><img src="https://img.shields.io/badge/Email-Dhinesh_Babu-00BFFF?style=flat-square&logo=gmail" /></a>
   <!-- Add LinkedIn and GitHub URLs below -->
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
   <a href="#"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github" /></a>
