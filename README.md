@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=700&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Dhinesh+Babu+C+M;C+S+Undergrad+%7C+Full+Stack+Developer;ML+Enthusiast+%7C+Open+to+Collab" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=700&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Dhinesh+Babu+C+M;C+S+Undergrad+%7C;Full+Stack+Developer;ML+Enthusiast+%7C+Open+to+Collab" alt="Typing SVG" />
 </p>
 
 <!-- Contact & Links -->
