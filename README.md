@@ -128,7 +128,7 @@
 
 > 🗒️ Open to collaboration in web development, data science, and ML project opportunities!  
 > 🙌 Let's connect and build together!
-## 📄 [View my Profile and Contact me for Collab](https://in.bold.pro/my/dhinesh-babu-profile-250912190018)
+# 🎓 [View my Profile and Contact me for Collab](https://in.bold.pro/my/dhinesh-babu-profile-250912190018)
 
 
 <!-- Add extra sections, widgets, or GitHub Actions integrations as you like! -->
