@@ -19,7 +19,7 @@
 - 🎓 3rd Year Computer Science Undergraduate at College of Engineering Guindy, Anna University, Chennai
 - ☑️ Incoming Summer Intern @ American Express (May 2026)
 - 💡 Passionate about building impactful tech solutions and contributing to open source
-- 🔎 Exploring Data Science, Machine Learning, and Full Stack Development[file:1]
+- 🔎 Exploring Data Science, Machine Learning, and Full Stack Development
 
 ---
 
@@ -39,7 +39,7 @@
 ![Gradio](https://img.shields.io/badge/Gradio-FF6A00?style=flat-square)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=flat-square)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Dash](https://img.shields.io/badge/Dash-00A4EF?style=flat-square)[file:1]
+![Dash](https://img.shields.io/badge/Dash-00A4EF?style=flat-square)
 
 ---
 
@@ -48,7 +48,7 @@
 - Data Structures & Algorithms, DBMS
 - MERN Stack, REST API Development
 - Machine Learning & Data Science (EDA, Model Building, Validation)
-- Communication, Analytical Thinking, Teamwork, Adaptability, Leadership[file:1]
+- Communication, Analytical Thinking, Teamwork, Adaptability, Leadership
 
 ---
 
@@ -94,9 +94,9 @@
 ## 💼 Experience & Certifications
 
 - AIML Intern, Elevate Labs (Virtual, May–Jun 2025)
-  - Built practical NLP/ML apps—resume ranker, sign recognition (Python, ML libraries, Gradio)[file:1]
+  - Built practical NLP/ML apps—resume ranker, sign recognition (Python, ML libraries, Gradio)
 - IBM Data Science Professional Certificate (May–Jul 2025)
-  - Data Analysis, Visualization, Machine Learning foundations[file:1]
+  - Data Analysis, Visualization, Machine Learning foundations
 
 ---
 
@@ -104,14 +104,14 @@
 
 - Associate Head, AUSEC Club (Tech Domain)
 - Joint Secretary, IR Domain, CSEA, CEG
-- Volunteer, National Service Scheme (NSS)[file:1]
+- Volunteer, National Service Scheme (NSS)
 
 ---
 
 ## 🌍 Languages
 
 - English (Professional)
-- Tamil (Native)[file:1]
+- Tamil (Native)
 
 ---
 
@@ -127,7 +127,7 @@
 
 > 🗒️ Open to collaboration in web development, data science, and ML project opportunities!  
 > 🙌 Let's connect and build together!
-> - 📄 [View my online resume on Bold.pro](https://in.bold.pro/my/dhinesh-babu-profile-250912190018)
+> - 📄 [View my Profile and Contact me for Collab](https://in.bold.pro/my/dhinesh-babu-profile-250912190018)
 
 
 <!-- Add extra sections, widgets, or GitHub Actions integrations as you like! -->
