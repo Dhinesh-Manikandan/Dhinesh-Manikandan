@@ -3,15 +3,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=700&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Dhinesh+Babu+C+M;CS+Undergrad;Full+Stack+Developer;Data+Science+and+ML+Enthusiast;Open+to+Collab" alt="Typing SVG" />
 </p>
 
-<!-- Contact & Links -->
 <p align="center">
   <a href="mailto:dhineshbabu9214@gmail.com"><img src="https://img.shields.io/badge/Email-Dhinesh_Babu-00BFFF?style=flat-square&logo=gmail" /></a>
-  <!-- Add LinkedIn and GitHub URLs below -->
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dhinesh-babu-3b782628a/)
-
+  <a href="https://www.linkedin.com/in/dhinesh-babu-3b782628a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
   <a href="https://github.com/Dhinesh-Manikandan/"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github" /></a>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&logo=github&label=Profile+views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=Dhinesh-Manikandan&logo=github&label=Profile+views&color=0e75b6&style=flat"/>
 </p>
+
 
 ---
 
