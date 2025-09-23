@@ -7,8 +7,8 @@
 <p align="center">
   <a href="mailto:dhineshbabu9214@gmail.com"><img src="https://img.shields.io/badge/Email-Dhinesh_Babu-00BFFF?style=flat-square&logo=gmail" /></a>
   <!-- Add LinkedIn and GitHub URLs below -->
-  <a href="https://www.linkedin.com/in/dhinesh-babu-3b782628a/">[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-id/)
-</a>
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dhinesh-babu-3b782628a/)
+
   <a href="https://github.com/Dhinesh-Manikandan/"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github" /></a>
 <img src="https://komarev.com/ghpvc/?username=your-github-username&logo=github&label=Profile+views&color=0e75b6&style=flat"/>
 </p>
