@@ -9,7 +9,7 @@
   <!-- Add LinkedIn and GitHub URLs below -->
   <a href="https://www.linkedin.com/in/dhinesh-babu-3b782628a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
   <a href="https://github.com/Dhinesh-Manikandan/"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Dhinesh Manikandan&logo=github&label=Profile+views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&logo=github&label=Profile+views&color=0e75b6&style=flat"/>
 </p>
 
 ---
