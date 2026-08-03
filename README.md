@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0A66C2&height=200&section=header&text=Dhinesh%20Babu%20C%20M&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Science%20%26%20ML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0A66C2&height=200&section=header&text=Dhinesh%20Babu%20C%20M&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Science%20and%20ML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=Final+Year+CSE+Undergrad+%40+CEG+Anna+University;Ex-SWE+Intern+%40+American+Express;Building+with+MERN%2C+Spring+Boot+%26+ML;Always+shipping%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -153,7 +153,7 @@ Built **Change Studio**, an internal change-readiness platform for ITSM reportin
 
 </div>
 
-> ⚙️ This animates itself daily via GitHub Actions — see `.github/workflows/snake.yml` for the one-time setup.
+
 
 <br/>
 
