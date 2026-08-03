@@ -11,7 +11,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhinesh-Manikandan/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-FF6A00?style=for-the-badge&logo=todoist&logoColor=white)](https://in.bold.pro/my/dhinesh-babu-profile-250912190018)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dhinesh-Manikandan&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
 
 </div>
 
