@@ -20,13 +20,12 @@
 ## 🚀 About Me
 
 ```yaml
-name: Dhinesh Babu C M
-education: B.E. Computer Science and Engineering, College of Engineering Guindy, Anna University
-year: Final Year Undergraduate (2023 - 2027) | CGPA: 9.19/10.0
-experience: SWE Intern @ American Express, Bengaluru (May - Jul 2026)
-focus: Full Stack Development · Data Science · Machine Learning
-currently_exploring: Building impactful tech solutions & contributing to open source
-fun_fact: I once trained a CNN just to talk to people in sign language 🤟
+Name: Dhinesh Babu C M
+Education: B.E. Computer Science and Engineering, College of Engineering Guindy, Anna University
+Year: Final Year Undergraduate (2023 - 2027) | CGPA: 9.19/10.0
+Experience: SWE Intern @ American Express, Bengaluru (May - Jul 2026)
+Focus: Full Stack Development · Data Science · Machine Learning
+Currently_exploring: Building impactful tech solutions that solve real-world problems
 ```
 
 <br/>
