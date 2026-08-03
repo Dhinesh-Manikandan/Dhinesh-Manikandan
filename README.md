@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dhinesh+Babu+C+M;Final+Year+CSE+Undergrad;Full+Stack+Developer;Data+Science+%26+ML+Enthusiast;Open+to+Collaborate+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0A66C2&height=200&section=header&text=Dhinesh%20Babu%20C%20M&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Science%20%26%20ML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=Final+Year+CSE+Undergrad+%40+CEG+Anna+University;Ex-SWE+Intern+%40+American+Express;Building+with+MERN%2C+Spring+Boot+%26+ML;Always+shipping%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -9,7 +11,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhinesh-Manikandan/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-FF6A00?style=for-the-badge&logo=todoist&logoColor=white)](https://in.bold.pro/my/dhinesh-babu-profile-250912190018)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dhinesh-Manikandan&label=Profile%20Views&color=0e75b6&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Dhinesh-Manikandan&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 </div>
 
@@ -24,47 +26,30 @@ year: Final Year Undergraduate (2023 - 2027) | CGPA: 9.19/10.0
 experience: SWE Intern @ American Express, Bengaluru (May - Jul 2026)
 focus: Full Stack Development · Data Science · Machine Learning
 currently_exploring: Building impactful tech solutions & contributing to open source
+fun_fact: I once trained a CNN just to talk to people in sign language 🤟
 ```
 
 <br/>
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,react,nodejs,express,spring,mongodb,postgres,git,vscode,postman,opencv&theme=dark" />
 
-**Web Development**
+</div>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Data / Streaming**
+<div align="center">
 
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Dash](https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=plotly&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF6A00?style=for-the-badge)
 
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+</div>
 
 <br/>
 
@@ -137,7 +122,7 @@ Built **Change Studio**, an internal change-readiness platform for ITSM reportin
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dhinesh-Manikandan&show_icons=true&theme=radical&hide_border=true&count_private=true" />
@@ -152,9 +137,29 @@ Built **Change Studio**, an internal change-readiness platform for ITSM reportin
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhinesh-Manikandan&theme=redical&hide_border=true" alt="activity graph" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhinesh-Manikandan&theme=radical&no-frame=true&row=1&column=7&margin-w=8" alt="trophies" />
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!--START_SECTION:snake-->
+<img src="https://raw.githubusercontent.com/Dhinesh-Manikandan/Dhinesh-Manikandan/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
+<!--END_SECTION:snake-->
+
+</div>
+
+> ⚙️ This animates itself daily via GitHub Actions — see `.github/workflows/snake.yml` for the one-time setup.
+
 <br/>
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00BFFF&height=120&section=footer" width="100%"/>
 
 ### 🗒️ Open to collaboration in Full Stack Development, Data Science & ML!
 **Let's connect and build something great together 🙌**
