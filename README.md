@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0A66C2&height=200&section=header&text=Dhinesh%20Babu%20C%20M&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Science%20and%20ML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=Final+Year+CSE+Undergrad+%40+CEG+Anna+University;Ex-SWE+Intern+%40+American+Express;Building+with+MERN%2C+Spring+Boot+%26+ML;Always+shipping%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=Final+Year+CSE+Undergrad;CEG+Anna+University;Ex-SWE+Intern+%40+American+Express;Building+with+MERN%2C+Spring+Boot+%26+ML;Always+shipping%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -20,13 +20,12 @@
 ## 🚀 About Me
 
 ```yaml
-name: Dhinesh Babu C M
-education: B.E. Computer Science and Engineering, College of Engineering Guindy, Anna University
-year: Final Year Undergraduate (2023 - 2027) | CGPA: 9.19/10.0
-experience: SWE Intern @ American Express, Bengaluru (May - Jul 2026)
-focus: Full Stack Development · Data Science · Machine Learning
-currently_exploring: Building impactful tech solutions that solve real-world problems
-fun_fact: I once trained a CNN just to talk to people in sign language 🤟
+Name: Dhinesh Babu C M
+Education: B.E. Computer Science and Engineering, College of Engineering Guindy, Anna University
+Year: Final Year Undergraduate (2023 - 2027) | CGPA: 9.19/10.0
+Experience: SWE Intern @ American Express, Bengaluru (May - Jul 2026)
+Focus: Full Stack Development · Data Science · Machine Learning
+Currently_exploring: Building impactful tech solutions that solve real-world problems
 ```
 
 <br/>
@@ -125,23 +124,16 @@ Built **Change Studio**, an internal change-readiness platform for ITSM reportin
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-![Followers](https://img.shields.io/github/followers/Dhinesh-Manikandan?label=Followers&style=for-the-badge&color=0e75b6&logo=github)
-![Last Commit](https://img.shields.io/github/last-commit/Dhinesh-Manikandan/Dhinesh-Manikandan?label=Last%20Commit&style=for-the-badge&color=00BFFF&logo=github)
-
-</div>
-
-<div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dhinesh-Manikandan&show_icons=true&theme=radical&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhinesh-Manikandan&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Dhinesh-Manikandan&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhinesh-Manikandan&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhinesh-Manikandan&theme=radical&hide_border=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhinesh-Manikandan&theme=redical&hide_border=true" alt="activity graph" />
 </div>
 
 <div align="center">
@@ -160,7 +152,7 @@ Built **Change Studio**, an internal change-readiness platform for ITSM reportin
 
 </div>
 
-> ⚙️ This animates itself daily via GitHub Actions — see `.github/workflows/snake.yml` for the one-time setup.
+
 
 <br/>
 
